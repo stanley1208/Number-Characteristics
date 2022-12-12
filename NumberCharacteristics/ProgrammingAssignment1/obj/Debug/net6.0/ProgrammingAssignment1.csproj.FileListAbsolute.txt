@@ -1,0 +1,15 @@
+D:\NumberCharacteristics\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.exe
+D:\NumberCharacteristics\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.deps.json
+D:\NumberCharacteristics\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.runtimeconfig.json
+D:\NumberCharacteristics\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.dll
+D:\NumberCharacteristics\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.pdb
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.AssemblyReference.cache
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfoInputs.cache
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfo.cs
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.dll
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\refint\ProgrammingAssignment1.dll
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.pdb
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.genruntimeconfig.cache
+D:\NumberCharacteristics\ProgrammingAssignment1\obj\Debug\net6.0\ref\ProgrammingAssignment1.dll
